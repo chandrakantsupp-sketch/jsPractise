@@ -1,1 +1,1 @@
-console.log("sasasa");
+console.log('Welcome to feature B');
